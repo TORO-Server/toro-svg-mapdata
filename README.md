@@ -4,15 +4,15 @@
 
 ## `alldata.svg`のレイヤー構成
 
-例: inkscape:label (最終更新: YYYY/MM/DD)
+例: inkscape:label
 
-- 地形 (最終更新: 2026/01/05)
-- [MapArchive](https://github.com/TORO-Server/TOROMapArchive) (最終更新: 2026/8/21)
-- 自治体 (最終更新: 2026/01/05)
-- 鉄道 (最終更新: 2026/09/06)
-- 鉄道駅 (最終更新: 2026/09/06)
-- 道路 (最終更新: 2026/09/06)
-- ガイド (最終更新: 2026/09/05)
+- 地形
+- [MapArchive](https://github.com/TORO-Server/TOROMapArchive)
+- 自治体
+- 鉄道
+- 鉄道駅
+- 道路
+- ガイド
 
 ## スタイル
 
@@ -26,3 +26,5 @@
 道路/鯖道: #ff8000 3px
 道路/都市高速: #aa00ff 2px
 道路/高速道路: #008000 2px
+
+更新の日付は git の履歴にあります。
