@@ -4,7 +4,7 @@
 
 ## `alldata.svg`のレイヤー構成
 
-例: inkscape:label
+例: inkscape:label (Inkscape で付けた、レイヤーの名前を表す設定)
 
 - 地形
 - [MapArchive](https://github.com/TORO-Server/TOROMapArchive)
@@ -16,9 +16,9 @@
 
 ## スタイル
 
-海洋(フィル): #66a9cc
+海洋(フィル。塗りつぶしの色): #66a9cc
 陸地(フィル): #ffffff
-陸地(ストローク): #404040 4px
+陸地(ストローク。線の色と太さ): #404040 4px
 鉄道(ストローク): 3px
 鉄道駅(フィル): #ffffff
 鉄道駅(ストローク): #000000 2px
